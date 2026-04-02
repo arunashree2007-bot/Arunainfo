@@ -1,5 +1,13 @@
 {
  "name" : "Aruna",
   "age" : 19,
-  "course" : "InfoTech"
+  "course" : "InfoTech",
+  "batch" : "2024-27",
+  "domain" : "Computer Science",
+  "projects count" : "nothing",
+  "Location" : "Avaniyapuram,Madurai-12",
+  "Year of Study" : 2,
+  "semester" : 4,
+  "arrear" : "Nope",
+  
 }
